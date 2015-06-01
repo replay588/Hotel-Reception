@@ -1,5 +1,5 @@
-# Hotel-Reception
-##Simple JavaFX desktop application with database synchronization based on MVC architecture
+## Hotel-Reception
+###Simple JavaFX desktop application with database synchronization based on MVC architecture
 
 - **Usage:** reservation manager for Hotel Reception 
 - **Technologies:** 
