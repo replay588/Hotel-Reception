@@ -1,0 +1,80 @@
+2015-06-01 13:49:46 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2015-06-01 13:49:46 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.3.5.Final}
+2015-06-01 13:49:46 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2015-06-01 13:49:46 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2015-06-01 13:49:46 INFO  org.hibernate.cfg.Configuration     - HHH000042: Configuring from file: hibernate.cfg.xml
+2015-06-01 13:49:47 WARN  org.hibernate.internal.util.xml.DTDEntityResolver     - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-06-01 13:49:47 INFO  org.hibernate.cfg.Configuration     - HHH000041: Configured SessionFactory: null
+2015-06-01 13:49:47 WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2015-06-01 13:49:47 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://garbarm.mysql.ukraine.com.ua/garbarm_nikulin]
+2015-06-01 13:49:47 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {user=garbarm_nikulin, password=****}
+2015-06-01 13:49:47 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: false
+2015-06-01 13:49:47 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 1 (min=1)
+2015-06-01 13:51:23 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2015-06-01 13:51:23 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.3.5.Final}
+2015-06-01 13:51:23 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2015-06-01 13:51:23 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2015-06-01 13:51:23 INFO  org.hibernate.cfg.Configuration     - HHH000042: Configuring from file: hibernate.cfg.xml
+2015-06-01 13:51:24 WARN  org.hibernate.internal.util.xml.DTDEntityResolver     - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-06-01 13:51:24 INFO  org.hibernate.cfg.Configuration     - HHH000041: Configured SessionFactory: null
+2015-06-01 13:51:24 WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2015-06-01 13:51:24 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://garbarm.mysql.ukraine.com.ua/garbarm_nikulin]
+2015-06-01 13:51:24 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {user=garbarm_nikulin, password=****}
+2015-06-01 13:51:24 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: false
+2015-06-01 13:51:24 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 1 (min=1)
+2015-06-01 13:51:27 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-06-01 13:51:27 INFO  org.hibernate.engine.jdbc.internal.LobCreatorBuilder     - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2015-06-01 13:51:28 INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator     - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2015-06-01 13:51:28 INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory     - HHH000397: Using ASTQueryTranslatorFactory
+2015-06-01 13:56:21 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000030: Cleaning up connection pool [jdbc:mysql://garbarm.mysql.ukraine.com.ua/garbarm_nikulin]
+2015-06-01 16:18:55 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2015-06-01 16:18:55 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.3.5.Final}
+2015-06-01 16:18:55 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2015-06-01 16:18:55 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2015-06-01 16:18:55 INFO  org.hibernate.cfg.Configuration     - HHH000042: Configuring from file: hibernate.cfg.xml
+2015-06-01 16:18:55 WARN  org.hibernate.internal.util.xml.DTDEntityResolver     - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-06-01 16:18:55 INFO  org.hibernate.cfg.Configuration     - HHH000041: Configured SessionFactory: null
+2015-06-01 16:18:55 WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2015-06-01 16:18:55 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://garbarm.mysql.ukraine.com.ua/garbarm_nikulin]
+2015-06-01 16:18:55 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {user=garbarm_nikulin, password=****}
+2015-06-01 16:18:55 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: false
+2015-06-01 16:18:55 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 1 (min=1)
+2015-06-01 16:18:58 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-06-01 16:18:58 INFO  org.hibernate.engine.jdbc.internal.LobCreatorBuilder     - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2015-06-01 16:18:58 INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator     - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2015-06-01 16:18:58 INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory     - HHH000397: Using ASTQueryTranslatorFactory
+2015-06-01 16:19:30 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000030: Cleaning up connection pool [jdbc:mysql://garbarm.mysql.ukraine.com.ua/garbarm_nikulin]
+2015-06-01 16:21:01 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2015-06-01 16:21:01 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.3.5.Final}
+2015-06-01 16:21:01 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2015-06-01 16:21:01 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2015-06-01 16:21:01 INFO  org.hibernate.cfg.Configuration     - HHH000042: Configuring from file: hibernate.cfg.xml
+2015-06-01 16:21:01 WARN  org.hibernate.internal.util.xml.DTDEntityResolver     - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-06-01 16:21:02 INFO  org.hibernate.cfg.Configuration     - HHH000041: Configured SessionFactory: null
+2015-06-01 16:21:02 WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2015-06-01 16:21:02 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://garbarm.mysql.ukraine.com.ua/garbarm_nikulin]
+2015-06-01 16:21:02 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {user=garbarm_nikulin, password=****}
+2015-06-01 16:21:02 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: false
+2015-06-01 16:21:02 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 1 (min=1)
+2015-06-01 16:21:04 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-06-01 16:21:04 INFO  org.hibernate.engine.jdbc.internal.LobCreatorBuilder     - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2015-06-01 16:21:04 INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator     - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2015-06-01 16:21:04 INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory     - HHH000397: Using ASTQueryTranslatorFactory
+2015-06-01 16:23:07 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000030: Cleaning up connection pool [jdbc:mysql://garbarm.mysql.ukraine.com.ua/garbarm_nikulin]
+2015-06-01 16:26:05 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2015-06-01 16:26:05 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.3.5.Final}
+2015-06-01 16:26:05 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2015-06-01 16:26:05 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2015-06-01 16:26:05 INFO  org.hibernate.cfg.Configuration     - HHH000042: Configuring from file: hibernate.cfg.xml
+2015-06-01 16:26:05 WARN  org.hibernate.internal.util.xml.DTDEntityResolver     - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-06-01 16:26:05 INFO  org.hibernate.cfg.Configuration     - HHH000041: Configured SessionFactory: null
+2015-06-01 16:26:05 WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2015-06-01 16:26:05 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://garbarm.mysql.ukraine.com.ua/garbarm_nikulin]
+2015-06-01 16:26:05 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {user=garbarm_nikulin, password=****}
+2015-06-01 16:26:05 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: false
+2015-06-01 16:26:05 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 1 (min=1)
+2015-06-01 16:26:08 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-06-01 16:26:08 INFO  org.hibernate.engine.jdbc.internal.LobCreatorBuilder     - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2015-06-01 16:26:08 INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator     - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2015-06-01 16:26:08 INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory     - HHH000397: Using ASTQueryTranslatorFactory
+2015-06-01 16:28:10 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000030: Cleaning up connection pool [jdbc:mysql://garbarm.mysql.ukraine.com.ua/garbarm_nikulin]
